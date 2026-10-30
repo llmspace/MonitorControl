@@ -125,7 +125,6 @@ git clone https://github.com/MonitorControl/MonitorControl.git
 - [Settings](https://github.com/sindresorhus/Settings)
 - [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio)
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)
-- [Sparkle](https://github.com/sparkle-project/Sparkle)
 
 ## Credits
 
